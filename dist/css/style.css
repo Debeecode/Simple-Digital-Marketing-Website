@@ -445,7 +445,7 @@ footer .contact-showcase .inner-contact-showcase > form > div > div .input {
     padding: .2rem;
 }
 
-footer .contact-showcase .inner-contact-showcase > form > div > div > input[type="button"] {
+footer .contact-showcase .inner-contact-showcase > form > div > div > input[type="submit"] {
     display: inline-block;
     padding: .3rem;
     outline: none;
